@@ -10,4 +10,4 @@ services:
   server:
    image: server 
    ports:
-    - 3001:3000
+    - 3001:8080
